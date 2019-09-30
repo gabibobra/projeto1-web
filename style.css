@@ -1,0 +1,148 @@
+
+*{
+    font-family: Akzidenz Grotesk BQ Medium,Helvetica,Arial;
+}
+.partedecima{
+    height: 40px;
+    width: 100%;
+    background-color: #273742;
+    display: flex;
+    position: relative;
+}
+
+.partedecima .txteimg{
+    margin: auto;
+}
+
+.logo{
+    height: 20px;
+    width: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.partedecima .txteimg strong{
+    font-family: DIN;
+    font-size: 16px;
+    color: #13aa52;
+    font-weight: 600;
+    margin-top: -4px;
+}
+
+.menu{
+    border-bottom: 1px solid grey;
+    
+}
+
+.bold{
+    font-size: 18px;
+    font-weight: 600;
+}
+.mdb{
+    vertical-align: middle;
+    padding: 0px 0px;
+    margin-right: -9px;
+}
+
+li{
+    vertical-align: middle; 
+    display: inline;
+    padding-right: 20px;
+    font-weight: 500;
+}
+
+.icone{
+    height: 30px;
+    width: 30px;
+}
+
+ul{
+    padding-inline-start: 40px;
+}
+
+.botao{
+    background-color: #13AA52;
+    border-radius: 4px;
+    color: white;
+    border: 1px solid #13aa52;
+    font-family: 'Akzidenz Grotesk BQ Medium';
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px 30px;
+}
+
+.esquerda{
+    float: right;
+    vertical-align: middle;
+    margin-right: 30px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+
+}
+/*
+.learn{
+    padding-left: 18%;
+    font-size: 13px;
+}
+
+.liesq{
+    font-size: 13px;
+}*/
+.principal{
+    width: 100%;
+    display: flex;
+}
+.partemenor{
+    margin-top: 50px;
+    padding: 20px;
+    padding-left: 10%;
+    width: 50%;
+    float: left;
+
+
+}
+.parteimagem{
+    width: 49%;
+    float: right;
+}
+
+h1{
+    font-size: 48px;
+    color: #116149;
+    line-height: 58px;
+    font-weight: 300;
+}
+
+h2{
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 15px 0;   
+}
+
+.inputemail{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.inputs{
+    padding: 15px;
+    border: 1px solid #B3BBC1;
+    border-radius: 4px;
+}
+
+.botaoget{
+    background-color: #13AA52;
+    border-radius: 4px;
+    color: white;
+    border: 1px solid #13aa52;
+    font-family: 'Akzidenz Grotesk BQ Medium';
+    font-weight: bold;
+    padding: 8px 16px;
+    font-size: 14px;
+    min-height: 45px;
+    margin-left: 10px;
+}
